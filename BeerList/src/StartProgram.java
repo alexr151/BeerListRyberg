@@ -104,7 +104,7 @@ public class StartProgram {
 
 		public static void runMenu() {
 			boolean goAgain = true;
-			System.out.println("--- Welcome to our awesome shopping list! ---");
+			System.out.println("--- Welcome to our awesome beer list! ---");
 			while (goAgain) {
 				System.out.println("*  Select a beer:");
 				System.out.println("*  1 -- Add a beer");
